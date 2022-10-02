@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jonas Berger
-- 👀 I’m interested in Embedded Systems and PCB Design
 - 🌱 I’m currently studying a Bachelor's Degree in Electronics
 
 <!---
