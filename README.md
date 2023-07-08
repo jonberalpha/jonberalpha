@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonas Berger
-- 🌱 I’m currently studying a Bachelor's Degree in Electronics
+- 🌱 I’m going to study a Master's Degree in Electronics
 
 <!---
 - 📫 How to reach me: jpni.berger@gmail.com
