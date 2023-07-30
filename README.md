@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonas Berger
-- 🌱 I’m going to study a Master's Degree in Electronics
+- 🌱 I’m going to study a Master's Degree in Embedded Systems
 
 <!---
 - 📫 How to reach me: jpni.berger@gmail.com
